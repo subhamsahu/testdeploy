@@ -192,8 +192,8 @@ SWAGGER_SETTINGS = {
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'testgmail@gmail.com'
-EMAIL_HOST_PASSWORD = 'test@123'
+EMAIL_HOST_USER = 'shipbharatdev@gmail.com'
+EMAIL_HOST_PASSWORD = 'mca&bca12'
 
 
 #CORS Allowed Origins Enabled only certain webapps to connect to our api endpoints
